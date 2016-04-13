@@ -1,0 +1,31 @@
+@charset "utf-8";
+.body {
+	font-family: Arial;
+	margin-right: 490px;
+	margin-left: 490px;
+	background-color: #FFFFFF;
+	margin-top: -9px;
+}
+.body h1 {
+	text-align:center
+}
+.body h2 {
+	text-align:center
+}
+.body h3 {
+	text-align:center
+}
+html {
+	background-image: url(resourses/boromir-4-1478698.jpg), url(resourses/winter-kingdom-798279_1920.jpg);
+	background-position: 0% 0%, 100% 0%;
+	background-repeat: repeat-y, repeat-y;
+}
+.Navbar {
+	background-color: #1200FF;
+}
+.Navbar button {
+	background-color: #FF0004;
+}
+.CostumeTable table tbody tr td {
+	border: 1px solid black
+}
